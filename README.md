@@ -63,7 +63,7 @@ I enjoy solving challenging problems, building scalable solutions, and constantl
 
 ### 📊 GitHub Stats
 
-![MrWhoopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=synthwave&count_private=true&hide=issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=synthwave)
 
 ---
 
