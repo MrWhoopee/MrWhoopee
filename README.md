@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artemii Holovko</h1>
+<h1 align="center">Hi 👋, I'm Artemii</h1>
 <h3 align="center">Full-Stack Developer |  JavaScript & Python  |  React Enthusiast</h3>
 
 ---
