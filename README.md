@@ -3,7 +3,13 @@
 
 ---
 
+### About Me
 
+I'm a passionate Full-Stack developer who loves **designing and creating new projects** from scratch. I thrive in the **flow state**, fully immersed in tasks until they are completed with precision. I consider myself **lucky** and quick at **learning new technologies**, which helps me adapt to different projects and environments with ease.
+
+I enjoy solving challenging problems, building scalable solutions, and constantly improving my skills. I'm **flexible, collaborative, and proactive**, and I always aim to deliver clean, maintainable, and efficient code. Whether it's front-end, back-end, or DevOps, I love exploring new tools and approaches to bring ideas to life.
+
+---
 
 ### 🛠️ Technologies & Tools
 
