@@ -59,11 +59,11 @@ I enjoy solving challenging problems, building scalable solutions, and constantl
 
 ### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWhoopee&layout=compact&theme=synthwave&count_private=true)
+![Top Languages](https://mrwhoopee-github-readme-stats.vercel.app/api/top-langs/?username=MrWhoopee&layout=compact&theme=synthwave&count_private=true&private_contributions=true)
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=synthwave)
+![GitHub Stats](https://mrwhoopee-github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=synthwave&count_private=true&private_contributions=true)
 
 ---
 
