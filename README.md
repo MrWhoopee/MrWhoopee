@@ -63,6 +63,8 @@ I’m flexible, collaborative, and proactive, always aiming to deliver clean, ma
   </a>
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-one-beta-34.vercel.app/api?username=MrWhoopee&show_icons=true&theme=shadow_green&count_private=true&private_contributions=true)
