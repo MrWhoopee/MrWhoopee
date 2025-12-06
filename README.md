@@ -1,10 +1,10 @@
 ### 📊 GitHub Stats
 
-![MrWhoopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=radical&count_private=true)
+![MrWhoopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
 
 ### 🏆 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrWhoopee&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=MrWhoopee&theme=radical)
 
 ### 📈 Top Languages
 
