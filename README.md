@@ -55,15 +55,15 @@ I enjoy solving challenging problems, building scalable solutions, and constantl
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-one-beta-34.vercel.app/api?username=MrWhoopee&show_icons=true&theme=synthwave&count_private=true&private_contributions=true)
+![GitHub Stats](https://github-readme-stats-one-beta-34.vercel.app/api?username=MrWhoopee&show_icons=true&theme=dark&count_private=true&private_contributions=true&title_color=00FF00&icon_color=00FF00)
 
 ### 🏆 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MrWhoopee&theme=synthwave)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrWhoopee&theme=dark&fire=00FF00)
 
 ### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats-nqpvsohjp-artemiis-projects-799e43a4.vercel.app/api/top-langs/?username=MrWhoopee&layout=compact&theme=synthwave&count_private=true&private_contributions=true)
+![Top Langs](https://github-readme-stats-one-beta-34.vercel.app/api/top-langs/?username=MrWhoopee&layout=compact&theme=dark&count_private=true&private_contributions=true&title_color=00FF00&icon_color=00FF00)
 
 
 
