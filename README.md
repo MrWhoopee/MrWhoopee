@@ -71,7 +71,7 @@ I enjoy solving challenging problems, building scalable solutions, and constantl
 ---
 
 ### May the Force be with your code✨💻
-<img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Yoda_Empire_Strikes-Back.png" width="60" height="60" style="border-radius:50%; border:2px solid #00FF00;" />
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Yoda_Empire_Strikes_Back.png" width="60" height="60" style=" border:2px solid #00FF00;" />
 
 
 
