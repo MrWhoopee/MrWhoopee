@@ -1,26 +1,25 @@
 <h1 align="center">Hi 👋, I'm MrWhoopee</h1>
-<h3 align="center">Full-Stack Developer | Python & JavaScript | Django & React Enthusiast</h3>
+<h3 align="center">Full-Stack Developer |  JavaScript & Python  |  React Enthusiast</h3>
 
 ---
 
 ### 📊 GitHub Stats
 
-![MrWhoopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
+![MrWhoopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=synthwave&count_private=true&hide=issues,contribs)
 
 ### 🏆 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MrWhoopee&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=MrWhoopee&theme=synthwave)
 
 ### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWhoopee&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWhoopee&layout=compact&theme=synthwave&count_private=true)
 
 ---
 
 ### 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
