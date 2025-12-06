@@ -3,19 +3,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![MrWhoopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=synthwave&count_private=true&hide=issues,contribs)
-
-### 🏆 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MrWhoopee&theme=synthwave)
-
-### 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWhoopee&layout=compact&theme=synthwave&count_private=true)
-
----
 
 ### 🛠️ Technologies & Tools
 
@@ -41,19 +29,35 @@
 ### 📫 Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/MrWhoopee" target="_blank">
+  <a href="https://www.linkedin.com/in/artemii-holovko-146490260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/MrWhoopee" target="_blank">
+  <a href="https://t.me/mr_whoopeee" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/MrWhoopee" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:artem.holovko.97@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/MrWhoopee" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://instagram.com/MrWhoopee" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://www.tiktok.com/@mrwhoopee" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
+
+### 🏆 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MrWhoopee&theme=synthwave)
+
+### 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWhoopee&layout=compact&theme=synthwave&count_private=true)
+
+### 📊 GitHub Stats
+
+![MrWhoopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWhoopee&show_icons=true&theme=synthwave&count_private=true&hide=issues,contribs)
 
 ---
 
