@@ -71,7 +71,7 @@ I’m flexible, collaborative, and proactive, always aiming to deliver clean, ma
 
 ### 🏆 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrWhoopee&theme=shadow_green)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrWhoopee&theme=dark)
 
 ### 📈 Top Languages
 
