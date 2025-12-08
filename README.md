@@ -69,16 +69,13 @@ I’m flexible, collaborative, and proactive, always aiming to deliver clean, ma
 
 ![GitHub Stats](https://github-readme-stats-one-beta-34.vercel.app/api?username=MrWhoopee&show_icons=true&theme=shadow_green&count_private=true&private_contributions=true)
 
-### 🏆 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrWhoopee&theme=dark)
-
 ### 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats-one-beta-34.vercel.app/api/top-langs/?username=MrWhoopee&layout=compact&theme=shadow_green&count_private=true&private_contributions=true)
 
+### 🏆 GitHub Streak
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrWhoopee&theme=shadow_green)
 
 ---
 
