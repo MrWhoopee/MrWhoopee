@@ -5,7 +5,7 @@
 
 🎧 **Currently Vibing:**  
 
-[![Spotify](https://spotify-auth-artemii.vercel.app/api/spotify-dark)](https://open.spotify.com/user/Mr.Whoopee)
+[![Spotify](https://spotify-auth-artemii.vercel.app/api/spotify)](https://open.spotify.com/user/Mr.Whoopee)
 
 ---
 
