@@ -4,6 +4,7 @@
 ---
 
 🎧 **Currently Vibing:**  
+
 [![Spotify](https://spotify-auth-artemii.vercel.app/api/spotify?background_color=0d1117&border_color=1db954)](https://open.spotify.com/user/Mr.Whoopee)
 
 ---
