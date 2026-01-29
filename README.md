@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Artemii</h1>
-<h3 align="center">Full-Stack Developer |  JavaScript & Python  |  React | Next</h3>
+<h3 align="center">Full-Stack Developer |  JavaScript & Python  |  React | Next | Node</h3>
 
 ---
 
