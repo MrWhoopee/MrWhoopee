@@ -14,7 +14,7 @@
 
   
 
-I absolutely love coding because for me, it’s just like playing Factorio or Satisfactory (the graphics are just a bit worse 😂).  Troubleshooting my second name 😎I’m also a huge fan of Warhammer 40k, Star Wars, Marvel, and The Lord of the Rings 🤘
+I absolutely love coding because for me, it’s just like playing Factorio or Satisfactory (the graphics are just a bit worse 😂).  Troubleshooting my second name 😎 I’m also a huge fan of Warhammer 40k, Star Wars, Marvel, and The Lord of the Rings 🤘
 
 
 
